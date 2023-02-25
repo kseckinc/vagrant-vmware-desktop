@@ -24,6 +24,6 @@ require (
 	github.com/posener/complete v1.2.3 // indirect
 	github.com/zclconf/go-cty v1.8.3 // indirect
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
-	golang.org/x/sys v0.0.0-20210601080250-7ecdf8ef093b
+	golang.org/x/sys v0.1.0
 	golang.org/x/text v0.3.6 // indirect
 )
